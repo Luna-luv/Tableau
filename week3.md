@@ -170,7 +170,7 @@
 겉보기에는 전체 10개로, 잘 나온 결과처럼 보입니다. 그러나 푸앙이는 치명적인 실수를 저질렀습니다.
 오늘 배운 '컨텍스트 필터'의 내용을 고려하여 올바른 풀이 및 결과를 구해주세요.
 ```
-
+![alt text](image.png)
 
 <!-- DArt-B superstore가 아닌 개인 superstore 파일을 사용했다면 값이 다르게 표시될 수 있습니다.-->
 
@@ -194,6 +194,9 @@
 ```
 
 ![alt text](https://raw.githubusercontent.com/DArt-B-Official/Tableau_Template/main/images/Week2-3.png)
+
+![alt text](image-1.png)
+
 
 <br>
 
